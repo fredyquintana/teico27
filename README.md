@@ -1,2 +1,2 @@
-# teico27
-Proyecto
+# Interfaz
+Practica 1
