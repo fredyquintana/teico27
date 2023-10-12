@@ -4,7 +4,7 @@ public class Circulo implements CalcularArea {
     private double radio;
 
     public Circulo(double radio) {
-        this.radio = radio;
+        this.radio = radi0;
     }
 
     @Override
